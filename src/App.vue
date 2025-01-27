@@ -54,19 +54,25 @@
       <p>faster audience growth</p>
       <img
         src="./assets/images/illustration-audience-growth.webp"
-        alt=""
+        alt="illustration audience-growth"
         width="500"
       />
     </div>
     <!-- CREATE POST -->
     <div class="box-grid create-post">
       <h2>Create and schedule content <i>quicker.</i></h2>
-      <img src="./assets/images/illustration-create-post.webp" alt="" />
+      <img
+        src="./assets/images/illustration-create-post.webp"
+        alt="illustration create-post"
+      />
     </div>
     <!-- AI CONTENT -->
     <div class="box-grid ai-content">
       <h2>Write your content using AI.</h2>
-      <img src="./assets/images/illustration-ai-content.webp" alt="" />
+      <img
+        src="./assets/images/illustration-ai-content.webp"
+        alt="illustration ai-content"
+      />
     </div>
   </div>
 </template>
