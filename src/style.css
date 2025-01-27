@@ -145,7 +145,6 @@ h2 {
 }
 .ai-content > img {
   max-width: 260px;
-  margin-top: 15px;
 }
 
 @media screen and (min-width: 600px) {
@@ -168,6 +167,10 @@ h2 {
   .ai-content {
     grid-row: 4 / 7;
     grid-column: 1 / 1;
+    padding-bottom: 10px;
+  }
+  .ai-content > img {
+    max-width: 100%;
   }
 
   .five-stars {
